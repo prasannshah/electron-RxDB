@@ -4,7 +4,7 @@
   "description": "RxDB is a high-performance, observable object store built on top of SQLite & intended for database-driven Electron applications.",
   "main": "lib/index.js",
   "dependencies": {
-    "better-sqlite3": "git+https://github.com/bengotow/better-sqlite3.git#a888061ad334c76d2db4c06554c90785cc6e7cce",
+    "better-sqlite3": "3.1.0",
     "lru-cache": "^4.0.1",
     "node-gyp": "^3.4.0",
     "promise-queue": "^2.2.3",
